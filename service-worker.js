@@ -7,7 +7,7 @@ const urlsToCache=[
   './README.md',
   './service-worker.js',
   './~.png/Lotus_Icon_192.png',
-  './~.png/Lotus_Icon_512.png',
+  './~.png/Lotus_Icon_512.png'
 ];
 
 self.addEventListener('install', event => {
